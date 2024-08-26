@@ -1,0 +1,51 @@
+*{
+    font-family:  "DM Serif Text", serif;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+ #content_img img{
+   border-radius: 50%;
+   position: absolute;
+ }
+ #content_img{
+   
+   width: 70%;
+   border-radius: 50%;
+   position: relative;
+   margin-left:50px;
+   margin-bottom: 25%;
+ }
+ #content_details{
+   text-align: justify;
+   font-size: 50px;
+   font-weight:80 ;
+   margin-top: 100PX;
+ }
+ #nav{
+    background-color: rgb(17, 17, 62);
+   
+ }
+ #first{
+    background-color: azure;
+    height: 100vh;
+ }
+ #para{
+    font-size:15px;
+ }
+
+ 
+ 
+ 
+ .info span{
+   margin-left: 1rem;
+   font-size: 25px;
+ }
+ .info i{
+   font-size:1rem;
+ }
+ #parag{
+   font-size: 18px;
+ }
+ 
